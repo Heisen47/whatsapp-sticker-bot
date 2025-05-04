@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-sticker-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heisen47/whatsapp-sticker-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heisen47/whatsapp-sticker-bot/issues"
+  },
+  "homepage": "https://github.com/Heisen47/whatsapp-sticker-bot#readme",
+  "dependencies": {
+    "baileys": "^6.7.16",
+    "express": "^5.1.0"
+  }
+}
